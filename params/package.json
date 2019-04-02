@@ -1,0 +1,14 @@
+{
+  "name": "params",
+  "version": "1.0.0",
+  "description": "this is a coll app.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[o",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Koustubh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
